@@ -1,16 +1,9 @@
-# expandable_text
+# Expandable Text
 
-A new Flutter project.
+This repository contains a minimal example of how to implament an expandable text with opacity in the third line
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Either clone or download the repository, and run your flutter project as ussually.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`$ flutter run`
